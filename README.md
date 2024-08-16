@@ -18,4 +18,4 @@ This is a very versatile project. You can modify the prompts, change the llm you
 
 
 
-Citeasyon © 2024 by Lidiasaes is licensed under Creative Commons Attribution-ShareAlike 4.0 International 
+<small>Citeasyon © 2024 by Lidiasaes is licensed under Creative Commons Attribution-ShareAlike 4.0 International</small> 
