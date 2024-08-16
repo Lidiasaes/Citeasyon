@@ -14,3 +14,8 @@ You are required to use your own **Hugging Face Access Token** in order to be ab
 
 
 This is a very versatile project. You can modify the prompts, change the llm you want to use or add more columns (example: topic detection).
+
+
+
+
+Citeasyon © 2024 by Lidiasaes is licensed under Creative Commons Attribution-ShareAlike 4.0 International 
