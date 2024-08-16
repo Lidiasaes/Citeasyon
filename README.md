@@ -5,12 +5,12 @@ You are required to use your own **Hugging Face Access Token** in order to be ab
 
 *Citeasyon step 1*
 
-<img src="https://github.com/user-attachments/assets/479a6db4-935c-47b7-aace-8895a381dbce" width= "700" height="900"/> 
+<img src="https://github.com/user-attachments/assets/6aeab0f6-9b89-4a36-9bf4-a2c60f59b212" width= "700" height="900"/> 
 
 
 *Citeasyon step 2*
 
-<img src="" width= "400" height="400"/> 
+<img src="https://github.com/user-attachments/assets/15a98144-44fd-4fcb-a8f8-9f87820cf0aa" width= "700" height="900"/> 
 
 
 This is a very versatile project. You can modify the prompts, change the llm you want to use or add more columns (example: topic detection).
