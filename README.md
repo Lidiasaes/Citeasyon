@@ -5,7 +5,7 @@ You are required to use your own **Hugging Face Access Token** in order to be ab
 
 *Citeasyon step 1*
 
-<img src="" width= "400" height="400"/> 
+<img src="https://github.com/user-attachments/assets/479a6db4-935c-47b7-aace-8895a381dbce" width= "700" height="900"/> 
 
 
 *Citeasyon step 2*
