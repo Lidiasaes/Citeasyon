@@ -1,5 +1,4 @@
-# Citeasyon ✨ 
-## Cite in MLA or APA format easily... with LLAMA2
+# Citeasyon ✨ : Cite in MLA or APA Format Easily... with LLAMA2
 🖥️[**Citeasyon Interface YOUTUBE TUTORIAL**](https://youtu.be/gNYaxPK_OB0?feature=shared)
 
 Streamlit app to get automatic MLA or APA citations from input files (.txt or .pdf).
